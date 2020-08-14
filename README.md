@@ -3,9 +3,9 @@
 Steps to be followed for runnung the code:
 
 cd server:
-npm install
-npm run start
+1)npm install
+2)npm run start
 
 cd client:
-npm install
-npm run start
+1)npm install
+2)npm run start
